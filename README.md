@@ -1,4 +1,4 @@
-# Sales & Operations Dashboard (Excel Project)
+# Strategic Sales & Operations performance Dashboard (Excel Project)
 
 ## Overview
 
